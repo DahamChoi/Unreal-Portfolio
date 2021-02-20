@@ -9,7 +9,7 @@
 
 > (임시)
 
-[![이미지 텍스트](https://img.youtube.com/watch?v=2PhCw2cuVtw/0.jpg)](https://www.youtube.com/watch?v=2PhCw2cuVtw)
+[![이미지 텍스트](https://img.youtube.com/vi/watch?v=2PhCw2cuVtw/0.jpg)](https://www.youtube.com/watch?v=2PhCw2cuVtw)
 
 # 기술 설명서
 
