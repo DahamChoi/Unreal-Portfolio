@@ -9,7 +9,7 @@
 
 > Youtube
 
-[![이미지 텍스트](https://img.youtube.com/vi/v=dzeQ4YHV19c/0.jpg)](https://www.youtube.com/watch?v=dzeQ4YHV19c)
+[![이미지 텍스트](http://img.youtube.com/vi/dzeQ4YHV19c/0.jpg)](https://www.youtube.com/watch?v=dzeQ4YHV19c)
 
 # 기술 설명서
 
