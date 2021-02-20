@@ -9,7 +9,7 @@
 
 > (임시)
 
-<iframe width="1280" height="704" src="https://www.youtube.com/embed/2PhCw2cuVtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![이미지 텍스트](https://www.youtube.com/watch?v=2PhCw2cuVtw/0.jpg)](https://www.youtube.com/watch?v=2PhCw2cuVtw)
 
 # 기술 설명서
 
